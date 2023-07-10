@@ -593,6 +593,11 @@ body
     margin:0px 0px -39px;
 }
 
+#video_link_tablet{
+
+    display: none;
+}
+
 
 /* video section ends */
 
@@ -1424,8 +1429,12 @@ body
 
 
 #video_link{
+    display: none;
+}
 
-    
+#video_link_tablet{
+
+    display:block;
     width: 100%;
     order: 1;
     margin:0px 0px 0px 0px;
