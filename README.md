@@ -1,4 +1,6 @@
 # Cogoport-Homepage
+Inorder to run the application, git clone the repository from the link provided on the Cogoport platform and then connect to live server after opening it in VS code.
+
 
 Some of the the elements I found difficult to replicate from the Cogoport Homepage were:
 1. The drop-down list that appears when we click on the navigation buttons.
